@@ -1,5 +1,5 @@
 # Todo_app
-Wanted to learn more front-end development, so I followed a YouTube tutorial to create a Todo web application that used React, CSS, and HTML.
+I wanted to learn more front-end development, so I followed a YouTube tutorial to create a Todo web application that used React, CSS, and HTML.
 
 I followed Dev Ed's video (https://tinyurl.com/aupv9ym7) and learned how to implement a basic react file, then enhance it by adding HTML, CSS and JavaScript. 
 The overall functionality of the application works like a stripped down trello page. You can add items to a Todo list, check off the item when complete and 
